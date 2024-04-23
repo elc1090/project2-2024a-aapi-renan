@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/project2-2024a-aapi-renan/static/css/main.701d6c73.css",
-    "main.js": "/project2-2024a-aapi-renan/static/js/main.0b62fcde.js",
+    "main.js": "/project2-2024a-aapi-renan/static/js/main.07463098.js",
     "index.html": "/project2-2024a-aapi-renan/index.html",
     "main.701d6c73.css.map": "/project2-2024a-aapi-renan/static/css/main.701d6c73.css.map",
-    "main.0b62fcde.js.map": "/project2-2024a-aapi-renan/static/js/main.0b62fcde.js.map"
+    "main.07463098.js.map": "/project2-2024a-aapi-renan/static/js/main.07463098.js.map"
   },
   "entrypoints": [
     "static/css/main.701d6c73.css",
-    "static/js/main.0b62fcde.js"
+    "static/js/main.07463098.js"
   ]
 }
